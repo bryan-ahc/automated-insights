@@ -1,0 +1,21 @@
+Date,Advertiser,Advertiser Currency,Insertion Order,Insertion Order ID,Line Item,Device Type,Region,Browser,Floodlight Activity Name,Impressions,Billable Impressions,Clicks,Click Rate (CTR),Total Conversions,Post-Click Conversions,Post-View Conversions,Revenue (Adv Currency),Media Cost (Advertiser Currency)
+9/29/2019,{DIR} {BU: HK} MGM Grand Paradise Limited_DCM,HKD,XHK17-DC024_MGM Cotai Phase III_APAC_LR_PP_Hua Yuan,10690040,XHK17-DC024_APAC_LAL_MGM Cotai_Converters,Connected TV,Bangkok,Chrome,Unknown,9,9,0,0.00%,0,0,0,0.013389,0.00617
+9/29/2019,{DIR} {BU: HK} MGM Grand Paradise Limited_DCM,HKD,XHK17-DC024_MGM Cotai Phase III_APAC_LR_PP_Hua Yuan,10690040,XHK17-DC024_APAC_LAL_MGM Cotai_Converters,Connected TV,Batangas,Chrome,Unknown,1,1,0,0.00%,0,0,0,0.002693,0.001241
+9/29/2019,{DIR} {BU: HK} MGM Grand Paradise Limited_DCM,HKD,XHK17-DC024_MGM Cotai Phase III_APAC_LR_PP_Hua Yuan,10690040,XHK17-DC024_APAC_LAL_MGM Cotai_Converters,Connected TV,East Java,Chrome,Unknown,8,8,0,0.00%,0,0,0,0.016863,0.007771
+,,,,,,,,,,79605365,79605365,111046,0.14%,1288,154,1134,399348.3404,171576.1013
+,,,,,,,,,,,,,,,,,,
+Report Time:,2019/10/28 16:25 GMT,,,,,,,,,,,,,,,,,
+Date Range:,2019/09/29 to 2019/10/28,,,,,,,,,,,,,,,,,
+Group By:,Date,,,,,,,,,,,,,,,,,
+Group By:,Advertiser,,,,,,,,,,,,,,,,,
+Group By:,Advertiser Currency,,,,,,,,,,,,,,,,,
+Group By:,Insertion Order,,,,,,,,,,,,,,,,,
+Group By:,Insertion Order ID,,,,,,,,,,,,,,,,,
+Group By:,Line Item,,,,,,,,,,,,,,,,,
+Group By:,Device Type,,,,,,,,,,,,,,,,,
+Group By:,Region,,,,,,,,,,,,,,,,,
+Group By:,Browser,,,,,,,,,,,,,,,,,
+Group By:,Floodlight Activity Name,,,,,,,,,,,,,,,,,
+MRC Accredited Metrics,"Impressions(Desktop Video, Mobile Video, Desktop Display, Desktop Rich Media, In-App Video, Mobile Display, Mobile Rich Media, In-App Display, In-App Rich Media)","Clicks(Desktop Video, Desktop Display, Desktop Rich Media, Mobile Video, Mobile Display, Mobile Rich Media, In-App Video, In-App Display, In-App Rich Media)","Click Rate (CTR)(Desktop Video, Desktop Display, Desktop Rich Media, Mobile Video, Mobile Display, Mobile Rich Media, In-App Video, In-App Display, In-App Rich Media)",,,,,,,,,,,,,,,
+Filter by Advertiser ID:,1901935,,,,,,,,,,,,,,,,,
+Filter by Partner ID:,1181942,,,,,,,,,,,,,,,,,
