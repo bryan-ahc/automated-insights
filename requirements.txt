@@ -1,4 +1,8 @@
 numpy==1.16.*
 matplotlib==3.*
+matplotlib.pyplot
 seaborn==0.8.1
 pandas
+datetime
+time
+timedelta
